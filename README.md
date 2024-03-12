@@ -5,12 +5,12 @@ This is a solution to the [Insure landing page challenge on Frontend Mentor](htt
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [The challenge](#the-challenge)
+- [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Screenshot](#screenshot)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
@@ -26,12 +26,6 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
-
-### Screenshot
-
-![desktop Screenshot](./screenshots/Screenshot%20Desktop.png "desktop Screenshot")
-![mobile Screenshot](./screenshots/Screenshot%20Mobile.png "mobile Screenshot")
-
 
 ### Links
 
@@ -53,3 +47,8 @@ CSS Utility Classes & propper Root Setup
 Responsive Design (mobile-first approach) & Working with @media queries
 
 Working with Background imgs, position absolut, relativ and z-index
+
+### Screenshot
+
+![desktop Screenshot](./screenshots/Screenshot%20Desktop.png "desktop Screenshot")
+![mobile Screenshot](./screenshots/Screenshot%20Mobile.png "mobile Screenshot")
